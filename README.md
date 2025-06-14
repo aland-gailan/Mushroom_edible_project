@@ -4,6 +4,7 @@ This project implements an end-to-end machine learning solution for mushroom cla
 
 ## Project Overview
 
+- **Go through the intro PDF file first!**
 - **Data Preprocessing**: Handle missing values, encode categorical variables, and normalize numerical values.
 - **Model Training**: Train a Random Forest Classifier and evaluate its performance.
 - **Interactive GUI**: Build a Streamlit-based GUI for real-time predictions.
