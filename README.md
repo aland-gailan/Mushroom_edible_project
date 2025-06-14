@@ -82,14 +82,7 @@ seaborn
 
 This project is created for educational purposes.
 
-## Screenshots
-
-Add screenshots of the GUI and notebook outputs here.
 
 ## Contributing
 
 Contributions are welcome! Please follow clean code practices and provide detailed documentation.
-
-## Contact
-
-For any inquiries, contact [your-email@example.com].
